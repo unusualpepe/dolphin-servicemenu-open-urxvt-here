@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Service
+X-KDE-ServiceTypes=KonqPopupMenu/Plugin
+MimeType=inode/directory
+Actions=openUrxvtHere
+X-KDE-Priority=TopLevel
+X-KDE-StartupNotify=false
+
+[Desktop Action openUrxvtHere]
+Name=Open Terminal Here
+Icon=/usr/share/icons/oxygen/base/16x16/apps/utilities-terminal.png
+Exec=urxvt -cd %f
