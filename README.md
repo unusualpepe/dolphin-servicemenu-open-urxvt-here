@@ -6,3 +6,6 @@ Place `openUrxvtHere.desktop` in the KDE5 services folder, generally `~/.local/s
 
 ## Entry name
 By default, the menu entry will read "Open Terminal Here". You can change this by editing the `Name` variable.
+
+## Icon
+I'm using an icon from the Oxygen's icon set. You can change it by editing the `Icon` variable.
