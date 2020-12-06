@@ -1,4 +1,4 @@
-# dolphin-servicemenu-openurxvthere
+# dolphin-servicemenu-open-urxvt-here
 Adds an entry to open urxvt in the current path to Dolphin's File Manager contextual menu.
 
 ## Installation
