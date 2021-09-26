@@ -8,5 +8,6 @@ X-KDE-StartupNotify=false
 
 [Desktop Action openUrxvtHere]
 Name=Open Terminal Here
+Name[nl]=Terminal hier openen
 Icon=/usr/share/icons/oxygen/base/16x16/apps/utilities-terminal.png
 Exec=urxvt -cd %f
